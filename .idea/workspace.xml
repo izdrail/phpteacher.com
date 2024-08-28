@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8be0514c-86d6-43f7-8d97-5bf392a0160c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;saturnphp&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/email-generator" />
+                    <option name="lastUsedInstant" value="1717065255" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/article-publisher" />
+                    <option name="lastUsedInstant" value="1716978931" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1716978188" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="blog" />
+                    <option name="lastUsedInstant" value="1716553792" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="blog]" />
+                    <option name="lastUsedInstant" value="1716542168" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mickasmt/astro-nomy&quot;,
+    &quot;accountId&quot;: &quot;45f9f4ca-c844-4013-8e81-4cb658e56bba&quot;
+  }
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2bqntTkVg7MWAkyo1BZzCm06FGs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240329_0000&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/saturn/Projects/lzomedia.com&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/opt/phpstorm/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/vue" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/content/services" />
+      <recent name="$PROJECT_DIR$/src/content/blog" />
+      <recent name="$PROJECT_DIR$/src/content/work" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/tools" />
+      <recent name="$PROJECT_DIR$/src/content" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PS-242.20224.427" />
+        <option value="bundled-php-predefined-a98d8de5180a-d6acee4cb394-com.jetbrains.php.sharedIndexes-PS-242.20224.427" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8be0514c-86d6-43f7-8d97-5bf392a0160c" name="Changes" comment="" />
+      <created>1706951690584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706951690584</updated>
+      <workItem from="1706951691727" duration="672000" />
+      <workItem from="1707036676916" duration="4942000" />
+      <workItem from="1707155169463" duration="197000" />
+      <workItem from="1707385364620" duration="145000" />
+      <workItem from="1707386706441" duration="8130000" />
+      <workItem from="1707899880206" duration="2206000" />
+      <workItem from="1707982418910" duration="3487000" />
+      <workItem from="1707994341200" duration="112000" />
+      <workItem from="1707995564046" duration="6580000" />
+      <workItem from="1708070063313" duration="2914000" />
+      <workItem from="1708073093012" duration="1244000" />
+      <workItem from="1708335844171" duration="803000" />
+      <workItem from="1708346906129" duration="19000" />
+      <workItem from="1708418174722" duration="5008000" />
+      <workItem from="1708429189907" duration="34000" />
+      <workItem from="1708429232175" duration="37000" />
+      <workItem from="1708432613865" duration="2698000" />
+      <workItem from="1708505340707" duration="1121000" />
+      <workItem from="1708508265461" duration="3552000" />
+      <workItem from="1708533947265" duration="135000" />
+      <workItem from="1708537060539" duration="961000" />
+      <workItem from="1708591332394" duration="7308000" />
+      <workItem from="1708602617784" duration="1150000" />
+      <workItem from="1708604874008" duration="26000" />
+      <workItem from="1708605700364" duration="1264000" />
+      <workItem from="1708606979243" duration="5695000" />
+      <workItem from="1708616624746" duration="1618000" />
+      <workItem from="1708675164694" duration="3168000" />
+      <workItem from="1708769840960" duration="1290000" />
+      <workItem from="1708781051393" duration="5855000" />
+      <workItem from="1708791957775" duration="3924000" />
+      <workItem from="1708873090720" duration="1548000" />
+      <workItem from="1708935636047" duration="1689000" />
+      <workItem from="1709049057183" duration="818000" />
+      <workItem from="1709054979339" duration="1042000" />
+      <workItem from="1709193759920" duration="237000" />
+      <workItem from="1709194113120" duration="95000" />
+      <workItem from="1709215281494" duration="503000" />
+      <workItem from="1709455455030" duration="1764000" />
+      <workItem from="1709542861034" duration="3316000" />
+      <workItem from="1709657126209" duration="81000" />
+      <workItem from="1709712249066" duration="893000" />
+      <workItem from="1710257010191" duration="309000" />
+      <workItem from="1710322583398" duration="148000" />
+      <workItem from="1710428108363" duration="320000" />
+      <workItem from="1711016671949" duration="124000" />
+      <workItem from="1711102465834" duration="263000" />
+      <workItem from="1711443863677" duration="8095000" />
+      <workItem from="1711560516360" duration="1058000" />
+      <workItem from="1711608044093" duration="1920000" />
+      <workItem from="1711613317993" duration="2187000" />
+      <workItem from="1711635343547" duration="210000" />
+      <workItem from="1711636735341" duration="130000" />
+      <workItem from="1711696108470" duration="8674000" />
+      <workItem from="1712564567473" duration="1820000" />
+      <workItem from="1713775632442" duration="901000" />
+      <workItem from="1713777951960" duration="9000" />
+      <workItem from="1713949385712" duration="364000" />
+      <workItem from="1713949763923" duration="1842000" />
+      <workItem from="1715151118234" duration="545000" />
+      <workItem from="1715153302762" duration="1100000" />
+      <workItem from="1715158168233" duration="1000" />
+      <workItem from="1715158672407" duration="229000" />
+      <workItem from="1715593521679" duration="7315000" />
+      <workItem from="1715976860763" duration="2292000" />
+      <workItem from="1716105611986" duration="3444000" />
+      <workItem from="1716113937213" duration="61000" />
+      <workItem from="1716114011625" duration="166000" />
+      <workItem from="1716116006904" duration="1866000" />
+      <workItem from="1716117945219" duration="1428000" />
+      <workItem from="1716119387539" duration="1968000" />
+      <workItem from="1716189342837" duration="5085000" />
+      <workItem from="1716282105068" duration="1075000" />
+      <workItem from="1716510344089" duration="378000" />
+      <workItem from="1716541980207" duration="10454000" />
+      <workItem from="1716645696455" duration="2842000" />
+      <workItem from="1716675582709" duration="2533000" />
+      <workItem from="1716711852163" duration="243000" />
+      <workItem from="1716969094440" duration="20148000" />
+      <workItem from="1717046109474" duration="4588000" />
+      <workItem from="1717063450080" duration="1815000" />
+      <workItem from="1717077182330" duration="3369000" />
+      <workItem from="1717140373346" duration="10126000" />
+      <workItem from="1717186860969" duration="1953000" />
+      <workItem from="1717400697245" duration="2231000" />
+      <workItem from="1718612926448" duration="5826000" />
+      <workItem from="1718697557330" duration="3353000" />
+      <workItem from="1721198181463" duration="6317000" />
+      <workItem from="1721227984354" duration="39000" />
+      <workItem from="1721280145787" duration="1739000" />
+      <workItem from="1722499087606" duration="3631000" />
+      <workItem from="1722503672680" duration="3777000" />
+      <workItem from="1722577227631" duration="1329000" />
+      <workItem from="1724503315044" duration="9129000" />
+      <workItem from="1724574124663" duration="1119000" />
+      <workItem from="1724833144544" duration="2404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
